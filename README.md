@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CS + DS @ UC BERKELEY
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ya.sh [at] berkeley [dot] edu
-- Please let me know if you want to see my private repositories!!
+- A lot of my work is private, so please let me know if you want to see my private repositories!!
 
 <!---
 yash-dubs/yash-dubs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
